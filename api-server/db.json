@@ -1,0 +1,138 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nombre": "Cómputo",
+      "descripcion": "Productos relacionados con computadoras y accesorios"
+    },
+    {
+      "id": 2,
+      "nombre": "Telefonía",
+      "descripcion": "Productos relacionados con teléfonos móviles y accesorios"
+    },
+    {
+      "id": 3,
+      "nombre": "Audio",
+      "descripcion": "Productos relacionados con sonido, como altavoces y auriculares"
+    }
+  ],
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Laptop HP",
+      "marca": "HP",
+      "modelo": "Pavilion 15",
+      "precio": 750,
+      "descripcion": "Laptop de alto rendimiento",
+      "categoriaId": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Mouse Logitech",
+      "marca": "Logitech",
+      "modelo": "MX Master 3",
+      "precio": 99,
+      "descripcion": "Mouse ergonómico de alta precisión",
+      "categoriaId": 1
+    },
+    {
+      "id": 4,
+      "nombre": "Tablet Samsung",
+      "marca": "Samsung",
+      "modelo": "Galaxy Tab S7",
+      "precio": 649,
+      "descripcion": "Tablet de alto rendimiento con pantalla de 11 pulgadas",
+      "categoriaId": 1
+    },
+    {
+      "id": 5,
+      "nombre": "Teclado Mecánico",
+      "marca": "Corsair",
+      "modelo": "K95 RGB Platinum",
+      "precio": 199,
+      "descripcion": "Teclado mecánico de lujo con iluminación RGB",
+      "categoriaId": 1
+    },
+    {
+      "id": 6,
+      "nombre": "Mouse Inalámbrico",
+      "marca": "Apple",
+      "modelo": "Magic Mouse",
+      "precio": 99,
+      "descripcion": "Mouse táctil ultraligero y recargable",
+      "categoriaId": 1
+    },
+    {
+      "id": 7,
+      "nombre": "Smartphone LG",
+      "marca": "LG",
+      "modelo": "Velvet",
+      "precio": 399,
+      "descripcion": "Smartphone elegante con diseño minimalista",
+      "categoriaId": 2
+    },
+    {
+      "id": 8,
+      "nombre": "Altavoces Bluetooth",
+      "marca": "Bose",
+      "modelo": "Modelo Actualizado",
+      "precio": 450,
+      "descripcion": "Altavoces portátiles con conexión Bluetooth",
+      "categoriaId": 3
+    },
+    {
+      "id": 9,
+      "nombre": "Auriculares Inalámbricos",
+      "marca": "Sony",
+      "modelo": "WH-1000XM4",
+      "precio": 348,
+      "descripcion": "Auriculares con cancelación de ruido de primera clase",
+      "categoriaId": 3
+    },
+    {
+      "id": 10,
+      "nombre": "Cámara Web",
+      "marca": "Logitech",
+      "modelo": "C920",
+      "precio": 79,
+      "descripcion": "Cámara web HD para streaming y videoconferencias",
+      "categoriaId": 1
+    },
+    {
+      "id": 11,
+      "nombre": "Smartwatch",
+      "marca": "Apple",
+      "modelo": "Series 6",
+      "precio": 399,
+      "descripcion": "Reloj inteligente con capacidad de ECG",
+      "categoriaId": 2
+    },
+    {
+      "id": 12,
+      "nombre": "Cargador Portátil",
+      "marca": "Anker",
+      "modelo": "PowerCore",
+      "precio": 45,
+      "descripcion": "Batería externa de alta capacidad",
+      "categoriaId": 2
+    },
+    {
+      "id": 13,
+      "nombre": "Micrófono USB",
+      "marca": "Blue",
+      "modelo": "Yeti",
+      "precio": 129,
+      "descripcion": "Micrófono profesional USB para grabación y streaming",
+      "categoriaId": 3
+    },
+    {
+      "nombre": "Teclado Mecánico",
+      "marca": "Corsair",
+      "modelo": "K95",
+      "precio": 199,
+      "descripcion": "Teclado mecánico RGB de alto rendimiento",
+      "categoriaId": 1,
+      "id": 14
+    }
+  ]
+}
